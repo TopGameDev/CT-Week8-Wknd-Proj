@@ -1,0 +1,102 @@
+.create {
+    text-align: center;
+    border: solid green 3px;
+    border-radius: 20px;
+    background-color: rgb(141, 203, 141);
+    width: 50%;
+    margin-left: 420px;
+    margin-top: 100px;
+    padding: 30px;
+    
+}
+
+
+.input {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 2rem;
+    padding: 10px;
+}
+
+.btn-success-login {
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: green;
+    width: 30%;
+}
+
+.card-body {
+    background-color: rgb(141, 203, 141);
+    border-radius: 25rem;
+}
+
+.card {
+    border-radius: 1rem;
+    border: solid lime 2px;
+}
+
+#shop {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: green;
+    padding: 2rem;
+    border-radius: 2rem;
+    padding-left: 2rem;
+    gap: 3rem;
+}
+
+.outline{
+    display: flex;
+    align-content: baseline;
+    margin-top: 50px;
+    padding: 40px;
+}
+
+.cart-section{
+    padding-top: 10px;
+    margin-right: 5rem;
+    text-align: center;
+    border: solid lime 3px;
+    border-radius: 20px;
+    background-color: rgb(141, 203, 141);
+    width: 90%;
+
+   
+}
+
+.cart-outline {
+    width: 50%;
+    
+}
+
+
+.cart-info {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.total{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.is-invisible{
+    display: none;
+}
+
+.is-visible{
+    display: block;
+}
+
+.greeting {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
